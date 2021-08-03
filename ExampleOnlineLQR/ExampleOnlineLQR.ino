@@ -60,7 +60,7 @@ void loop()
 
 
 
-///////////////////////IT WORKS!, thanks Taka Horibe -> https://github.com/TakaHoribe/Riccati_Solver
+//Thanks Taka Horibe -> https://github.com/TakaHoribe/Riccati_Solver
 
 MatrixXd solveRiccati(const Eigen::MatrixXd &A,
                       const Eigen::MatrixXd &B,
